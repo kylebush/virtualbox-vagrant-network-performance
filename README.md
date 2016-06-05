@@ -38,3 +38,8 @@ vagrant destroy test-vm
 vagrant up 
 vagrant ssh test-vm
 ```
+
+To run the speed test:
+```
+speedtest-cli 
+```
